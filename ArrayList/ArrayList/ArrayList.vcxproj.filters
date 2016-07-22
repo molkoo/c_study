@@ -23,5 +23,8 @@
     <ClCompile Include="arraylist.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="example_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
